@@ -1,0 +1,9 @@
+/* RESET */
+img {
+    max-width: 100%;
+}
+
+.ms_container {
+    width: 60%;
+    margin: 0 auto;
+}

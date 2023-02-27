@@ -1,0 +1,17 @@
+/* RESET */
+img {
+    max-width: 100%;
+}
+
+header {
+    height: 80px;
+    background-color: aquamarine;
+}
+
+.ms_menu-list {
+    list-style-type: none;
+}
+
+.ms_menu-list li {
+    margin-left: 1rem;
+}
