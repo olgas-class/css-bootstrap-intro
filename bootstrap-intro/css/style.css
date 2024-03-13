@@ -1,0 +1,11 @@
+.ms_container {
+  border: 1px solid black;
+}
+
+.ms_title {
+  background-color: lightblue;
+}
+
+.ms_row {
+  background-color: palevioletred;
+}

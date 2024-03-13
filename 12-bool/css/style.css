@@ -1,0 +1,15 @@
+.container {
+  min-height: 500px;
+  border: 1px solid black;
+}
+
+.row {
+  background-color: pink;
+  min-height: 200px;
+}
+
+
+[class^="col-"] {
+  border: 2px solid green;
+  min-height: 200px;
+}

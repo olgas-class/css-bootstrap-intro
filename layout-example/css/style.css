@@ -1,0 +1,29 @@
+img {
+  max-width: 100%;
+}
+
+.ms_header {
+  background-color: lightcoral;
+}
+
+.ms_header-nav {
+  list-style-type: none;
+}
+
+.ms_header-nav li {
+  margin: 0 10px;
+}
+
+.ms_hero {
+  background-color: lightblue;
+}
+
+.ms_card {
+  border: 1px solid black;
+}
+
+.ms_container {
+  width: 100%;
+  max-width: 600px;
+  margin: 0 auto;
+}
